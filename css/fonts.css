@@ -1,0 +1,22 @@
+@font-face{
+    font-family: kelson;
+    font-style: normal;
+    src: url("./Fonts/Kelson-Light.ttf");
+}
+
+@font-face{
+    font-family: kelson-bold;
+    font-style: normal;
+    src: url("./Fonts/Kelson-Bold.ttf");
+}
+
+@font-face{
+    font-family: kelson-medium;
+    font-style: normal;
+    src: url("./Fonts/Kelson-Medium.ttf");
+}
+@font-face{
+    font-family: kelson-regular;
+    font-style: normal;
+    src: url("./Fonts/Kelson-Regular.ttf");
+}
